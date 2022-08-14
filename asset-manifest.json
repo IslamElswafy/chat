@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/caht/static/css/main.9c91237d.css",
+    "main.js": "/caht/static/js/main.66ea2c13.js",
+    "static/js/787.b3d32539.chunk.js": "/caht/static/js/787.b3d32539.chunk.js",
+    "static/media/logo.jpg": "/caht/static/media/logo.f18a5ae71ce5c486e194.jpg",
+    "static/media/signup.png": "/caht/static/media/signup.76fcd121da3fc990d235.png",
+    "static/media/toppng.com-live-chat-png-1024x1024.png": "/caht/static/media/toppng.com-live-chat-png-1024x1024.1df6d348f81ace2a55bb.png",
+    "index.html": "/caht/index.html",
+    "main.9c91237d.css.map": "/caht/static/css/main.9c91237d.css.map",
+    "main.66ea2c13.js.map": "/caht/static/js/main.66ea2c13.js.map",
+    "787.b3d32539.chunk.js.map": "/caht/static/js/787.b3d32539.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9c91237d.css",
+    "static/js/main.66ea2c13.js"
+  ]
+}
