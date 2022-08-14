@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/massinger_caht/static/css/main.9c91237d.css",
+    "main.js": "/massinger_caht/static/js/main.d2c42ff7.js",
+    "static/js/787.b3d32539.chunk.js": "/massinger_caht/static/js/787.b3d32539.chunk.js",
+    "static/media/logo.jpg": "/massinger_caht/static/media/logo.f18a5ae71ce5c486e194.jpg",
+    "static/media/signup.png": "/massinger_caht/static/media/signup.76fcd121da3fc990d235.png",
+    "static/media/toppng.com-live-chat-png-1024x1024.png": "/massinger_caht/static/media/toppng.com-live-chat-png-1024x1024.1df6d348f81ace2a55bb.png",
+    "index.html": "/massinger_caht/index.html",
+    "main.9c91237d.css.map": "/massinger_caht/static/css/main.9c91237d.css.map",
+    "main.d2c42ff7.js.map": "/massinger_caht/static/js/main.d2c42ff7.js.map",
+    "787.b3d32539.chunk.js.map": "/massinger_caht/static/js/787.b3d32539.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9c91237d.css",
+    "static/js/main.d2c42ff7.js"
+  ]
+}
